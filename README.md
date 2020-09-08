@@ -6,12 +6,12 @@ A simple ToDo List application with ReactJS.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ```text
-git clone 
-cd 
+git clone git@github.com:CodeMechanix/React-ToDo-List.git
+cd React-ToDo-List
 npm install
 npm start
 ```
-Then you can visit the url shortener in this url- http://127.0.0.1:8000
+Then you can visit the url shortener in this url- http://localhost:3000/
 
 #### Uses
 This application can be used for maintain ToDo List. 
@@ -24,6 +24,6 @@ This project has following features-
 
 #### Screenshots
 
-![All-List]()
+![All-List](https://github.com/CodeMechanix/React-ToDo-List/blob/master/images/Show-All-Task.PNG)
 
-![Edit-List]()
+![Edit-List](https://github.com/CodeMechanix/React-ToDo-List/blob/master/images/Update-A-List.PNG)
